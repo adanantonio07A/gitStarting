@@ -1,0 +1,2 @@
+This file is only to view the integration 
+example.
